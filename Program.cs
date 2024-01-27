@@ -33,13 +33,12 @@ namespace Synchronize
             {
                 sourcePath = sourcePath.Substring(1, sourcePath.Length - 2);
             }
-            //sourcePath = sourcePath.Replace("\"", "");
+
             if (replicaPath.StartsWith("\"") || replicaPath.StartsWith("'"))
             {
                 replicaPath = replicaPath.Substring(1, replicaPath.Length - 2);
             }
-            //replicaPath = replicaPath.Replace("\"", "");
-            //logFilePath = logFilePath.Replace("\"", "");
+
             if (logFilePath.StartsWith("\"") || logFilePath.StartsWith("'"))
             {
                 logFilePath = logFilePath.Substring(1, logFilePath.Length - 2);
@@ -177,7 +176,7 @@ namespace Synchronize
                             Log($"Delete file {fileInfo.Key}", 0);
                         } catch (Exception ex)
                         {
-                            Log($"Something went wrong deleting file {fileInfo.Key}: ${ex.Message}", 1);
+                            Log($"Something went wrong deleting file {fileInfo.Key}: {ex.Message}", 1);
                         } 
                   
                     }
