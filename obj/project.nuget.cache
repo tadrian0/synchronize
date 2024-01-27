@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3fgmthvzEscw1qlMbGAabr0ogijJD5UOYzyiWkbkqcU7tm5rlEC/pDl+Xhy1jlnBs4orhuAyoK/veGi3KJ7ouA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ady\\Documents\\Visual Studio 2022\\Projects\\Synchronize\\Synchronize.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ady\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.1\\microsoft.dotnet.ilcompiler.8.0.1.nupkg.sha512",
+    "C:\\Users\\ady\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.1\\microsoft.net.illink.tasks.8.0.1.nupkg.sha512",
+    "C:\\Users\\ady\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.1\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

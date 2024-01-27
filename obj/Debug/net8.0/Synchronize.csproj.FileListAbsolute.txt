@@ -1,0 +1,14 @@
+C:\Users\ady\Documents\Visual Studio 2022\Projects\Synchronize\bin\Debug\net8.0\Synchronize.exe
+C:\Users\ady\Documents\Visual Studio 2022\Projects\Synchronize\bin\Debug\net8.0\Synchronize.deps.json
+C:\Users\ady\Documents\Visual Studio 2022\Projects\Synchronize\bin\Debug\net8.0\Synchronize.runtimeconfig.json
+C:\Users\ady\Documents\Visual Studio 2022\Projects\Synchronize\bin\Debug\net8.0\Synchronize.dll
+C:\Users\ady\Documents\Visual Studio 2022\Projects\Synchronize\bin\Debug\net8.0\Synchronize.pdb
+C:\Users\ady\Documents\Visual Studio 2022\Projects\Synchronize\obj\Debug\net8.0\Synchronize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ady\Documents\Visual Studio 2022\Projects\Synchronize\obj\Debug\net8.0\Synchronize.AssemblyInfoInputs.cache
+C:\Users\ady\Documents\Visual Studio 2022\Projects\Synchronize\obj\Debug\net8.0\Synchronize.AssemblyInfo.cs
+C:\Users\ady\Documents\Visual Studio 2022\Projects\Synchronize\obj\Debug\net8.0\Synchronize.csproj.CoreCompileInputs.cache
+C:\Users\ady\Documents\Visual Studio 2022\Projects\Synchronize\obj\Debug\net8.0\Synchronize.dll
+C:\Users\ady\Documents\Visual Studio 2022\Projects\Synchronize\obj\Debug\net8.0\refint\Synchronize.dll
+C:\Users\ady\Documents\Visual Studio 2022\Projects\Synchronize\obj\Debug\net8.0\Synchronize.pdb
+C:\Users\ady\Documents\Visual Studio 2022\Projects\Synchronize\obj\Debug\net8.0\Synchronize.genruntimeconfig.cache
+C:\Users\ady\Documents\Visual Studio 2022\Projects\Synchronize\obj\Debug\net8.0\ref\Synchronize.dll
