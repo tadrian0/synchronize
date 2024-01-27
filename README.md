@@ -11,7 +11,7 @@ Double click the executable and follow the on screen instructions to input the f
 ### Linux
 
 * Install dotnet runtime for Linux
- Run in command line:
+* Run in command line:
 ``` bash 
 dotnet Synchronize.dll
 ```
