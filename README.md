@@ -10,13 +10,13 @@ Double click the executable and follow the on screen instructions to input the f
 
 ### Linux
 
-** Install dotnet runtime for Linux
-** Run in command line:
+* Install dotnet runtime for Linux
+ Run in command line:
 ``` bash 
 dotnet Synchronize.dll
 ```
 
-** Follow the on screen instructions to input the folder paths, the log file path and the sync interval
+* Follow the on screen instructions to input the folder paths, the log file path and the sync interval
 
 ![Synchronize demo on Linux](images/sync-linux.jpeg)
 
